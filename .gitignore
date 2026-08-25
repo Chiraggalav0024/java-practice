@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Build folders
+bin/
+build/
+out/
+target/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating-system files
+.DS_Store
